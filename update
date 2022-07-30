@@ -2,8 +2,8 @@
   {
     "name": "آپدیت جدید",
     "text": "آپدیت جدیدی موجود است اگر هنوز برنامه را آپدیت نوردید لطفا سریعا اقدام کنید",
-    "update": false,
+    "update": true,
     "link": "https://s6.uupload.ir/files/photoroom-20220730_193517_9eiq.png",
-    "mode": false
+    "mode": true
   }
 ]
